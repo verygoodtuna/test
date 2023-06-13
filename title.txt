@@ -1,0 +1,43 @@
+.footer .title {
+    font-family: 'Noto Serif KR', serif;
+    padding: 30px 0;
+    text-align: center;
+    font-size: 50px;
+    color: #ddd;
+}
+
+.footer .title span {
+    position: relative;
+}
+
+.footer .title span::after {
+    content:"“카시아 속초는 대포항 앞바다와 바로 연결”";
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #333;
+
+    width: 50px;
+    white-space: nowrap;
+    overflow: hidden;
+
+    border-right: 1px solid #999;
+    transition: 3s;
+    
+    animation: tt 3s infinite steps(30, end);
+    /* transition-timing-function: steps(24, end); */
+}
+
+.footer .title:hover span::after {
+    width: 1015px;
+}
+
+@keyframes tt {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 1015px;
+    }
+}

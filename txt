@@ -1,0 +1,125 @@
+hd)
+카시아 속초
+ 
+사업개요
+ 
+입지환경
+ 
+시설정보
+ 
+세대정보
+ 
+THE SANCTUARY CLUB
+ 
+관심고객등록
+
+1644-8484
+
+mv)
+카시아 속초
+EAST OCEANMARK가 되다.
+땅의 끝, 바다가 시작이 되는 그 극적인 접점에서 귀하가 누려야 할
+그 누구에게도 방해받지 않는 깊이 있는 휴식이 지금 시작됩니다.
+
+mp)
+카시아 속초만의 메리트
+PREMIUM
+
+세계적인 명성의 호텔 & 리조트체인
+반얀트리 그룹의 레지던스 브랜드 ‘카시아 속초’
+
+동해바다와 맞닿은 입지
+바다조망 프리미엄
+
+카시아 속초에서 경험할 수 있는
+연면적 3만 6천평 규모
+
+다양한 아이디어가 집약된
+차별화 컨셉 및 
+
+mm)
+고품격 휴식과 프리미엄 가치를 동시에
+이제 투자대세는 카시아 속초입니다!
+부동산 규제 없는 투자상품
+당 사업지는 1가구 2주택과 무관한 상품으로 특급호텔식 서비스는 기본, 세계적인 고급 주거 트렌드인 레지던스 형태로 투자가치가 높습니다
+
+비치프런트
+프리미엄
+카시아 속초는 대포항 앞바다와 바로 연결되어 있어 탁 트인 바다조망을 누릴 수 있는 최고의 프리미엄 입지를 자랑합니다
+
+강원도 관광지
+새 여행트렌드로 급부상
+코로나로 인한 언택트 시대 코로나 청정지역인 속초로 여행 수요 폭발적 증가 안전하게 몸과 마음을 힐링 할 수 있는 속초가 더욱 주목 받고 있습니다
+
+ft)
+위탁자 : 마스턴제88호속초PFV 시공사 : 한화건설 시행사 : 한국자산신탁
+온라인대행 : (주)리얼투데이 서울특별시 강남구 언주로650, 9층(논현동,한국건설기술인협회 신관) 대표이사 : 김운철 등록번호 : 214-88-75980
+COPYRIGHTⒸ 2020 CASSIA SOKCHO ALL RIGHTS RESERVED.
+
+#866750
+
+  /* transition-timing-function: steps(24, end); */
+
+  .footer .title {
+    font-family: 'Noto Serif KR', serif;
+    padding: 30px 0;
+    text-align: center;
+    font-size: 50px;
+    color: #ddd;
+}
+
+.footer .title span {
+    position: relative;
+}
+
+.footer .title span::after {
+    content:"“카시아 속초는 대포항 앞바다와 바로 연결”";
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #333;
+
+    width: 50px;
+    white-space: nowrap;
+    overflow: hidden;
+
+    border-right: 1px solid #999;
+    transition: 3s;
+    
+    animation: tt 3s infinite steps(30, end);
+}
+
+.footer .title:hover span::after {
+    width: 1015px;
+}
+
+@keyframes tt {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 1015px;
+    }
+}
+
+
+
+.tbtn {
+    border: 1px solid #333;
+    display: inline-block;
+    padding: 5px 0;
+    font-size: 15px;
+    width: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    transition: 0.5s;
+}
+
+.tbtn:hover {
+    width: 100px;
+}
+
+body {
+    overflow-x: hidden;
+}
